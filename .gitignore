@@ -1,0 +1,9 @@
+# Documentation-only repository: prevent accidental source/artifact publication.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!editor/
+!comparison/
+!editor/*.md
+!comparison/*.md
